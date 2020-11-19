@@ -1,16 +1,16 @@
-### Hi there 👋, i'm Josh.
+## Hi there 👋, i'm Josh, a Software Engineer.
 
-<!--
-**Joshuromi/joshuromi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on web API's
+- 🌱 I’m currently learning electron.js, GraphQl, Agile
+- 💬 Ask me about Javascript, react, Full Stack development
+- 😄 Pronouns: he/him
 
-Here are some ideas to get you started:
+🏡 [portfolio][portfolio] **|** 
+🐦 [twitter][twitter] **|** 
+📦 [codepen][codepen] **|** 
+👔 [linkedin][linkedin]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[portfolio]: https://joshuaojuromi.glitch.me/
+[twitter]: https://twitter.com/joshuromi
+[codepen]: https://codepen.io/joshuromi
+[linkedin]: https://www.linkedin.com/in/josh-ojuromi-872257169/
