@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on web API's
 - 🌱 I’m currently learning electron.js, GraphQl, Agile
-- 💬 Ask me about Javascript, react, Full Stack development
+- 💬 Ask me about Javascript, react, Full Stack web development
 - 😄 Pronouns: he/him
 
 🏡 [portfolio][portfolio] **|** 
