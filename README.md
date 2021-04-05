@@ -10,7 +10,7 @@
 📦 [codepen][codepen] **|** 
 👔 [linkedin][linkedin]
 
-[portfolio]: https://joshuaojuromi.glitch.me/
+[portfolio]: https://joshuromi.netlify.app/
 [twitter]: https://twitter.com/joshuromi
 [codepen]: https://codepen.io/joshuromi
 [linkedin]: https://www.linkedin.com/in/josh-ojuromi-872257169/
