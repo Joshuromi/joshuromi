@@ -1,8 +1,8 @@
 ## Hi there 👋, i'm Josh, a Software Engineer.
 
 - 🔭 I’m currently working on web API's
-- 🌱 I’m currently learning electron.js, GraphQl, Agile
-- 💬 Ask me about Javascript, react, Full Stack web development
+- 🌱 I’m currently learning Web3, GraphQl
+- 💬 Ask me about Javascript, React JS, Next JS
 - 😄 Pronouns: he/him
 
 🏡 [portfolio][portfolio] **|** 
